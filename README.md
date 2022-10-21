@@ -1,2 +1,2 @@
 # OOV_usingRNNs
-Utilizando as Redes Neurais Recorrentes (RNN, LSTM e GRU) como modelo para treinamento de corpus. 
+Utilizando as Redes Neurais Recorrentes (RNN, LSTM e GRU) com suas versões bidirecionais, como modelo para treinamento de corpus. 
